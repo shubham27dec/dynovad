@@ -1,0 +1,9 @@
+# datasets
+dynovad/datasets/
+
+# mac
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
